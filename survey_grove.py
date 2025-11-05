@@ -153,3 +153,34 @@ if uploaded_file:
                     df.drop(columns="_positive_", inplace=True)
 
             st.divider()
+st.markdown("""
+    <p style="
+        font-size: 16px;
+        color: #2B3A2F;
+        margin-bottom: 8px;
+    ">
+        This app was created by Kevin Verhoff.  
+        If you find this tool useful and would like to buy me a coffee, I’d appreciate it:
+    </p>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+    <a href="https://www.buymeacoffee.com/wZyLoMV" target="_blank"
+       style="
+           display: inline-block;
+           padding: 6px 14px;
+           background-color: #ffdd00;
+           color: #2B3A2F;
+           text-align: center;
+           border-radius: 6px;
+           text-decoration: none;
+           font-weight: 600;
+           font-size: 14px;
+           box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+           transition: all 0.2s ease-in-out;
+       "
+       onmouseover="this.style.backgroundColor='#ffcf00'"
+       onmouseout="this.style.backgroundColor='#ffdd00'">
+       ☕ Buy me a coffee
+    </a>
+""", unsafe_allow_html=True)
