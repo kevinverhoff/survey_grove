@@ -1,0 +1,501 @@
+respondent_id,timestamp,race,gender,region,times_used_service_past_month,events_attended_past_year,q1_find_service_helpful_agreement,q2_mobile_app_frequency,q3_overall_satisfaction
+R1361,2025-09-04 17:00:33.502001,Black,Female,North,3,0,Agree,Sometimes,Satisfied
+R1073,2025-09-04 19:10:14.502001,Hispanic,Male,North,3,1,Agree,Never,Very unsatisfied
+R1374,2025-09-09 06:11:05.502001,White,Female,South,2,3,Agree,Rarely,Satisfied
+R1155,2025-08-27 16:48:45.502001,White,Female,West,2,0,Agree,Always,Neutral
+R1104,2025-08-31 11:48:31.502001,Asian,Female,Central,5,2,Strongly agree,Never,Unsatisfied
+R1394,2025-08-07 12:20:35.502001,White,Male,South,2,0,Strongly disagree,Sometimes,Unsatisfied
+R1377,2025-09-06 04:41:54.502001,White,Male,East,1,0,Disagree,Rarely,Neutral
+R1124,2025-08-07 12:42:06.502001,White,Male,East,3,0,Neutral,Never,Unsatisfied
+R1068,2025-09-04 20:50:41.502001,White,Male,South,3,1,Neutral,Sometimes,Neutral
+R1450,2025-10-27 05:26:09.502001,Hispanic,Male,South,3,2,Strongly agree,Sometimes,Unsatisfied
+R1009,2025-08-10 03:49:42.502001,Black,Male,South,4,3,Strongly disagree,Sometimes,Very unsatisfied
+R1194,2025-09-16 08:37:43.502001,White,Female,North,0,3,Agree,Always,Very unsatisfied
+R1406,2025-08-15 02:37:29.502001,White,Male,West,0,1,Strongly agree,Sometimes,Neutral
+R1084,2025-09-12 10:10:17.502001,White,Male,Central,4,3,Strongly disagree,Sometimes,Satisfied
+R1371,2025-10-11 05:26:06.502001,White,Female,North,4,1,Neutral,Often,Neutral
+R1388,2025-10-31 02:39:06.502001,Hispanic,Female,Central,2,0,Disagree,Often,Unsatisfied
+R1495,2025-10-07 14:24:46.502001,White,Female,East,3,0,Disagree,Often,Satisfied
+R1030,2025-10-19 02:51:48.502001,Black,Male,North,2,3,Agree,Always,Unsatisfied
+R1316,2025-09-13 01:14:29.502001,White,Male,East,1,0,Strongly agree,Always,Satisfied
+R1408,2025-10-03 10:37:07.502001,Asian,Female,East,2,1,Agree,Always,Neutral
+R1490,2025-08-27 07:49:47.502001,White,Male,South,2,2,Agree,Sometimes,Neutral
+R1491,2025-08-27 05:25:01.502001,Black,Male,South,3,0,Disagree,Often,Neutral
+R1280,2025-10-11 01:30:31.502001,Asian,Male,East,1,3,Neutral,Always,Satisfied
+R1356,2025-11-02 02:32:25.502001,White,Female,Central,1,3,Neutral,Rarely,Neutral
+R1076,2025-10-28 18:53:21.502001,Hispanic,Female,South,1,0,Neutral,Often,Unsatisfied
+R1461,2025-09-02 04:38:21.502001,Black,Male,East,4,2,Disagree,Often,Neutral
+R1497,2025-08-22 07:57:46.502001,White,Female,South,3,1,Disagree,Rarely,Satisfied
+R1211,2025-10-17 01:03:32.502001,Black,Male,South,3,0,Neutral,Sometimes,Satisfied
+R1101,2025-10-11 08:13:31.502001,Black,Female,Central,4,0,Neutral,Sometimes,Unsatisfied
+R1334,2025-10-24 23:20:47.502001,White,Male,Central,3,0,Strongly disagree,Often,Neutral
+R1475,2025-10-27 21:55:03.502001,Other,Female,East,3,1,Neutral,Rarely,Neutral
+R1336,2025-08-27 11:55:23.502001,Hispanic,Male,North,3,0,Agree,Often,Satisfied
+R1440,2025-10-06 13:26:03.502001,White,Female,Central,3,1,Neutral,Often,Unsatisfied
+R1173,2025-10-17 02:14:39.502001,White,Male,South,2,1,Strongly agree,Rarely,Satisfied
+R1002,2025-09-01 05:31:46.502001,Hispanic,Female,West,5,0,Disagree,Sometimes,Satisfied
+R1333,2025-08-17 04:57:10.502001,White,Female,Central,1,0,Agree,Rarely,Very satisfied
+R1409,2025-09-06 15:28:22.502001,White,Female,West,2,1,Neutral,Always,Very satisfied
+R1070,2025-08-26 11:11:21.502001,Hispanic,Male,South,0,0,Agree,Rarely,Unsatisfied
+R1209,2025-11-04 03:44:00.502001,White,Male,Central,0,2,Neutral,Often,Neutral
+R1063,2025-10-08 02:13:59.502001,White,Female,South,2,0,Agree,Sometimes,Satisfied
+R1384,2025-09-12 16:39:04.502001,Hispanic,Male,East,1,2,Neutral,Sometimes,Unsatisfied
+R1093,2025-09-14 11:19:54.502001,Black,Female,East,1,0,Strongly agree,Never,Satisfied
+R1485,2025-11-01 06:52:33.502001,Asian,Male,South,1,2,Agree,Never,Satisfied
+R1185,2025-09-07 00:21:36.502001,Black,Male,Central,1,1,Strongly agree,Sometimes,Satisfied
+R1033,2025-11-03 01:23:47.502001,Asian,Male,North,1,0,Agree,Sometimes,Very satisfied
+R1077,2025-09-17 18:35:11.502001,White,Male,East,2,1,Disagree,Rarely,Satisfied
+R1000,2025-10-04 00:37:41.502001,White,Male,North,2,0,Agree,Sometimes,Very satisfied
+R1011,2025-09-21 23:02:01.502001,Other,Female,Central,2,2,Neutral,Often,Neutral
+R1415,2025-08-09 16:13:30.502001,White,Female,Central,5,0,Disagree,Sometimes,Satisfied
+R1022,2025-09-07 02:24:27.502001,White,Non-binary,Central,0,1,Agree,Sometimes,Neutral
+R1072,2025-10-25 08:25:13.502001,White,Female,North,4,1,Neutral,Rarely,Neutral
+R1182,2025-11-04 01:15:47.502001,Asian,Female,East,5,2,Neutral,Sometimes,Very satisfied
+R1131,2025-08-12 16:35:05.502001,White,Male,South,3,1,Strongly disagree,Rarely,Very satisfied
+R1410,2025-10-20 03:15:39.502001,White,Male,North,1,0,Agree,Sometimes,Neutral
+R1193,2025-10-29 13:43:12.502001,Black,Female,East,2,0,Neutral,Sometimes,Satisfied
+R1055,2025-10-01 07:11:21.502001,Asian,Female,South,5,0,Neutral,Rarely,Neutral
+R1148,2025-08-25 13:57:09.502001,White,Male,West,0,1,Strongly disagree,Rarely,Satisfied
+R1018,2025-10-19 07:50:10.502001,White,Prefer not to say,Central,3,1,Disagree,Sometimes,Neutral
+R1204,2025-09-20 04:27:04.502001,Black,Female,South,2,1,Disagree,Rarely,Unsatisfied
+R1078,2025-08-31 07:36:27.502001,White,Male,North,2,1,Agree,Rarely,Satisfied
+R1494,2025-09-06 17:30:22.502001,White,Female,East,1,0,Agree,Sometimes,Very unsatisfied
+R1262,2025-09-09 17:38:41.502001,White,Female,South,0,2,Neutral,Rarely,Very unsatisfied
+R1323,2025-10-25 19:19:31.502001,White,Female,North,2,1,Neutral,Sometimes,Neutral
+R1483,2025-10-14 06:58:21.502001,Black,Female,North,0,2,Strongly agree,Sometimes,Very unsatisfied
+R1079,2025-08-29 16:10:54.502001,White,Female,Central,2,2,Neutral,Never,Neutral
+R1039,2025-09-28 10:32:49.502001,White,Female,South,2,1,Agree,Sometimes,Satisfied
+R1451,2025-10-13 09:45:43.502001,Black,Male,East,6,3,Neutral,Sometimes,Satisfied
+R1046,2025-08-16 13:37:46.502001,White,Female,South,3,1,Neutral,Rarely,Neutral
+R1238,2025-09-29 23:37:39.502001,Black,Female,Central,1,1,Disagree,Rarely,Unsatisfied
+R1391,2025-10-01 20:58:42.502001,White,Male,North,2,0,Neutral,Sometimes,Satisfied
+R1352,2025-10-31 00:13:07.502001,Black,Female,South,2,0,Neutral,Often,Neutral
+R1341,2025-08-27 23:04:21.502001,White,Male,South,2,1,Agree,Sometimes,Neutral
+R1277,2025-09-26 06:25:46.502001,Black,Male,Central,2,3,Agree,Often,Satisfied
+R1290,2025-08-07 19:07:30.502001,White,Female,South,2,1,Disagree,Often,Unsatisfied
+R1317,2025-10-02 08:05:42.502001,White,Female,West,2,2,Agree,Sometimes,Neutral
+R1304,2025-08-20 19:20:56.502001,Black,Female,West,2,1,Agree,Sometimes,Neutral
+R1268,2025-10-05 08:03:18.502001,White,Female,East,0,1,Strongly disagree,Always,Neutral
+R1069,2025-08-31 13:47:12.502001,Other,Female,South,1,2,Neutral,Never,Neutral
+R1455,2025-10-03 20:48:54.502001,White,Female,Central,3,0,Disagree,Never,Very satisfied
+R1465,2025-08-19 22:21:15.502001,White,Female,North,2,2,Agree,Sometimes,Neutral
+R1154,2025-08-18 08:50:07.502001,Other,Female,East,1,1,Neutral,Never,Neutral
+R1082,2025-09-29 02:10:19.502001,White,Male,South,4,3,Strongly disagree,Sometimes,Satisfied
+R1477,2025-10-09 01:47:45.502001,Black,Female,West,1,0,Neutral,Often,Unsatisfied
+R1172,2025-09-19 00:26:08.502001,White,Female,East,4,1,Agree,Sometimes,Very unsatisfied
+R1321,2025-11-03 08:04:17.502001,Black,Female,North,6,0,Neutral,Often,Satisfied
+R1090,2025-08-17 08:18:30.502001,White,Female,Central,1,1,Agree,Never,Satisfied
+R1180,2025-10-12 02:16:12.502001,White,Male,Central,0,2,Neutral,Sometimes,Unsatisfied
+R1414,2025-08-25 09:35:13.502001,Black,Male,East,3,2,Disagree,Sometimes,Satisfied
+R1312,2025-08-29 22:27:02.502001,White,Female,East,2,2,Agree,Sometimes,Neutral
+R1278,2025-08-31 23:44:18.502001,Black,Male,North,1,0,Agree,Sometimes,Satisfied
+R1381,2025-09-03 12:09:44.502001,Black,Male,South,1,0,Neutral,Sometimes,Satisfied
+R1472,2025-09-13 21:32:19.502001,White,Male,West,2,0,Strongly agree,Often,Very unsatisfied
+R1362,2025-10-01 00:52:39.502001,White,Male,East,2,1,Neutral,Rarely,Unsatisfied
+R1324,2025-08-09 17:00:17.502001,Asian,Male,Central,1,0,Neutral,Rarely,Neutral
+R1431,2025-09-14 17:46:55.502001,Hispanic,Male,East,0,1,Agree,Rarely,Satisfied
+R1347,2025-09-01 14:22:34.502001,White,Prefer not to say,South,1,1,Neutral,Sometimes,Satisfied
+R1086,2025-11-05 06:08:51.502001,Black,Female,East,2,1,Agree,Sometimes,Very unsatisfied
+R1075,2025-09-12 02:01:52.502001,Black,Non-binary,South,3,1,Agree,Often,Very satisfied
+R1438,2025-09-17 13:25:26.502001,Black,Female,North,3,1,Neutral,Never,Neutral
+R1015,2025-09-25 12:32:23.502001,White,Female,Central,5,1,Strongly disagree,Often,Unsatisfied
+R1249,2025-09-03 11:27:36.502001,Hispanic,Male,East,0,0,Neutral,Sometimes,Very satisfied
+R1433,2025-11-01 16:40:22.502001,White,Male,East,0,1,Strongly agree,Sometimes,Very unsatisfied
+R1019,2025-08-08 01:30:13.502001,White,Female,North,1,1,Strongly agree,Often,Satisfied
+R1322,2025-10-19 10:43:59.502001,Black,Female,West,1,2,Agree,Rarely,Very unsatisfied
+R1332,2025-10-17 08:11:43.502001,White,Female,South,4,2,Disagree,Sometimes,Satisfied
+R1056,2025-08-22 21:07:33.502001,White,Female,West,5,1,Strongly disagree,Often,Satisfied
+R1301,2025-09-25 13:56:29.502001,White,Female,Central,4,3,Agree,Often,Neutral
+R1229,2025-11-01 22:44:55.502001,Black,Female,South,2,0,Strongly disagree,Sometimes,Satisfied
+R1331,2025-08-31 11:46:00.502001,Hispanic,Female,West,5,3,Neutral,Often,Satisfied
+R1132,2025-10-25 11:58:01.502001,White,Male,North,4,0,Neutral,Sometimes,Neutral
+R1137,2025-10-14 22:22:01.502001,Black,Female,South,2,2,Agree,Sometimes,Satisfied
+R1423,2025-10-09 03:35:29.502001,White,Male,North,6,1,Neutral,Sometimes,Unsatisfied
+R1335,2025-10-23 18:01:40.502001,White,Female,East,0,1,Neutral,Sometimes,Satisfied
+R1025,2025-09-06 18:30:38.502001,Hispanic,Female,South,3,1,Agree,Always,Unsatisfied
+R1464,2025-09-25 02:11:42.502001,Other,Female,Central,2,1,Agree,Sometimes,Satisfied
+R1281,2025-08-25 19:14:11.502001,White,Male,West,3,1,Strongly agree,Sometimes,Unsatisfied
+R1247,2025-09-12 02:21:49.502001,Other,Male,North,3,0,Disagree,Often,Satisfied
+R1237,2025-08-29 15:17:29.502001,White,Male,South,4,3,Strongly disagree,Often,Satisfied
+R1117,2025-10-03 23:35:50.502001,White,Female,West,2,0,Strongly agree,Sometimes,Neutral
+R1042,2025-08-27 23:43:35.502001,White,Female,South,3,1,Neutral,Sometimes,Neutral
+R1220,2025-11-02 15:52:43.502001,Black,Non-binary,Central,2,0,Strongly disagree,Rarely,Neutral
+R1176,2025-08-16 04:50:13.502001,Black,Female,West,1,0,Strongly disagree,Rarely,Neutral
+R1320,2025-10-24 07:00:52.502001,White,Male,South,3,0,Disagree,Sometimes,Unsatisfied
+R1153,2025-09-23 01:25:48.502001,White,Male,East,2,3,Strongly disagree,Sometimes,Satisfied
+R1231,2025-08-24 04:50:53.502001,White,Male,South,6,1,Neutral,Rarely,Very unsatisfied
+R1227,2025-10-23 05:20:28.502001,White,Male,South,2,1,Neutral,Often,Neutral
+R1417,2025-09-19 05:45:39.502001,White,Non-binary,North,2,0,Agree,Never,Very satisfied
+R1203,2025-08-22 10:41:54.502001,Asian,Female,South,3,0,Neutral,Rarely,Neutral
+R1126,2025-08-09 05:32:10.502001,Hispanic,Female,North,3,1,Disagree,Rarely,Very satisfied
+R1329,2025-10-24 05:50:40.502001,White,Female,South,2,0,Neutral,Rarely,Neutral
+R1031,2025-10-12 03:41:13.502001,White,Prefer not to say,East,1,0,Neutral,Rarely,Very satisfied
+R1113,2025-08-23 13:21:16.502001,Hispanic,Female,East,1,0,Neutral,Always,Satisfied
+R1470,2025-09-13 03:52:51.502001,White,Male,East,1,2,Disagree,Never,Satisfied
+R1271,2025-09-03 10:07:28.502001,Hispanic,Male,West,1,1,Agree,Often,Neutral
+R1140,2025-09-19 06:04:34.502001,Other,Female,West,3,0,Neutral,Never,Very unsatisfied
+R1057,2025-10-12 02:22:48.502001,White,Female,South,2,1,Strongly disagree,Sometimes,Neutral
+R1192,2025-08-29 23:02:53.502001,Asian,Male,South,1,0,Neutral,Rarely,Very satisfied
+R1024,2025-11-01 15:02:47.502001,White,Male,Central,4,1,Neutral,Never,Very satisfied
+R1017,2025-09-29 12:16:48.502001,White,Male,East,3,1,Strongly disagree,Often,Satisfied
+R1265,2025-10-09 19:06:45.502001,Hispanic,Male,North,5,1,Strongly disagree,Sometimes,Neutral
+R1066,2025-08-28 02:12:36.502001,White,Female,South,2,2,Agree,Sometimes,Neutral
+R1208,2025-09-10 14:02:53.502001,White,Female,South,2,1,Strongly disagree,Sometimes,Satisfied
+R1479,2025-10-15 09:09:02.502001,White,Male,South,3,2,Neutral,Sometimes,Satisfied
+R1094,2025-08-13 04:41:10.502001,Hispanic,Male,South,0,0,Disagree,Rarely,Satisfied
+R1253,2025-09-17 17:21:47.502001,White,Female,North,1,0,Agree,Rarely,Very satisfied
+R1266,2025-10-01 12:41:25.502001,Black,Male,South,1,1,Neutral,Often,Satisfied
+R1023,2025-08-21 11:18:07.502001,White,Male,Central,3,2,Strongly agree,Often,Satisfied
+R1222,2025-09-25 06:36:28.502001,White,Female,South,2,2,Neutral,Rarely,Satisfied
+R1261,2025-10-25 14:41:24.502001,Other,Female,West,1,1,Agree,Rarely,Very unsatisfied
+R1426,2025-10-05 12:33:06.502001,White,Female,North,0,1,Strongly agree,Sometimes,Very satisfied
+R1005,2025-10-07 09:08:14.502001,White,Female,East,4,2,Agree,Sometimes,Satisfied
+R1116,2025-09-03 08:06:25.502001,Hispanic,Female,North,3,2,Agree,Often,Satisfied
+R1045,2025-08-28 10:17:40.502001,Black,Female,East,1,0,Neutral,Sometimes,Unsatisfied
+R1016,2025-08-27 07:37:05.502001,White,Female,North,2,1,Neutral,Often,Neutral
+R1462,2025-08-31 22:22:15.502001,Hispanic,Female,North,1,0,Disagree,Rarely,Neutral
+R1357,2025-08-31 08:52:25.502001,Black,Female,South,2,1,Strongly agree,Sometimes,Neutral
+R1003,2025-08-27 13:36:05.502001,Black,Male,West,1,0,Strongly disagree,Rarely,Neutral
+R1218,2025-08-21 09:49:39.502001,Black,Female,East,4,2,Disagree,Sometimes,Neutral
+R1405,2025-08-22 17:59:59.502001,Asian,Male,South,3,0,Agree,Rarely,Satisfied
+R1060,2025-11-04 12:50:12.502001,White,Male,West,2,0,Neutral,Rarely,Neutral
+R1110,2025-10-25 07:18:31.502001,White,Female,West,5,0,Neutral,Often,Satisfied
+R1318,2025-08-21 09:18:05.502001,White,Female,North,1,4,Strongly agree,Sometimes,Satisfied
+R1428,2025-10-14 01:32:58.502001,White,Male,East,5,0,Strongly agree,Never,Very unsatisfied
+R1029,2025-09-30 19:30:52.502001,White,Male,West,0,0,Agree,Rarely,Satisfied
+R1437,2025-10-22 19:52:22.502001,Hispanic,Male,West,0,0,Agree,Never,Satisfied
+R1471,2025-09-25 07:30:23.502001,Other,Non-binary,West,1,1,Agree,Sometimes,Satisfied
+R1026,2025-08-15 19:47:50.502001,White,Female,West,2,0,Neutral,Often,Satisfied
+R1007,2025-08-15 07:15:15.502001,Hispanic,Male,West,2,5,Neutral,Often,Neutral
+R1453,2025-08-30 19:19:12.502001,Asian,Male,East,1,1,Agree,Never,Satisfied
+R1108,2025-09-17 07:30:34.502001,White,Male,East,3,4,Disagree,Sometimes,Neutral
+R1037,2025-10-02 03:28:08.502001,White,Female,West,2,2,Agree,Always,Neutral
+R1157,2025-09-29 10:12:47.502001,Hispanic,Female,Central,1,1,Agree,Often,Very satisfied
+R1489,2025-09-30 18:29:31.502001,Asian,Male,South,3,0,Neutral,Rarely,Satisfied
+R1118,2025-10-01 06:50:31.502001,Asian,Male,South,1,0,Agree,Never,Neutral
+R1114,2025-10-28 14:44:33.502001,Black,Male,East,3,0,Agree,Often,Neutral
+R1175,2025-08-24 14:45:06.502001,White,Prefer not to say,East,2,1,Strongly agree,Rarely,Unsatisfied
+R1373,2025-10-06 20:01:26.502001,Black,Female,South,0,2,Neutral,Sometimes,Very unsatisfied
+R1181,2025-10-07 01:56:01.502001,White,Female,South,4,1,Agree,Rarely,Neutral
+R1144,2025-09-14 13:26:39.502001,White,Female,South,3,1,Disagree,Rarely,Neutral
+R1369,2025-10-29 18:42:31.502001,White,Non-binary,South,3,3,Neutral,Sometimes,Satisfied
+R1390,2025-10-27 17:31:34.502001,Other,Male,South,1,1,Disagree,Rarely,Satisfied
+R1195,2025-10-23 23:58:49.502001,White,Male,West,4,0,Neutral,Rarely,Neutral
+R1404,2025-10-18 02:52:47.502001,White,Female,East,2,3,Agree,Sometimes,Unsatisfied
+R1275,2025-08-17 20:47:32.502001,White,Female,North,5,0,Strongly disagree,Rarely,Neutral
+R1454,2025-08-29 17:30:15.502001,White,Female,North,1,2,Agree,Sometimes,Satisfied
+R1141,2025-09-25 23:02:31.502001,White,Female,South,1,1,Strongly agree,Rarely,Very unsatisfied
+R1365,2025-09-28 08:53:47.502001,White,Male,North,1,0,Agree,Sometimes,Satisfied
+R1067,2025-08-10 08:48:10.502001,Hispanic,Female,North,1,0,Disagree,Always,Very unsatisfied
+R1210,2025-08-31 08:18:17.502001,White,Male,South,5,1,Agree,Never,Satisfied
+R1168,2025-08-26 18:13:04.502001,White,Female,North,3,2,Neutral,Rarely,Neutral
+R1493,2025-08-10 02:09:35.502001,White,Male,North,0,2,Agree,Often,Neutral
+R1375,2025-08-13 18:36:35.502001,White,Female,West,1,2,Strongly agree,Never,Unsatisfied
+R1400,2025-09-16 06:31:53.502001,White,Female,North,2,0,Disagree,Rarely,Very satisfied
+R1272,2025-10-06 04:23:09.502001,Hispanic,Female,West,4,0,Neutral,Never,Neutral
+R1109,2025-11-01 07:42:31.502001,White,Male,North,4,3,Agree,Always,Satisfied
+R1248,2025-10-06 22:19:02.502001,Other,Male,Central,2,1,Disagree,Never,Neutral
+R1145,2025-08-26 12:57:01.502001,White,Male,West,2,0,Disagree,Often,Satisfied
+R1092,2025-10-17 18:21:28.502001,Hispanic,Female,East,0,2,Neutral,Rarely,Satisfied
+R1152,2025-09-15 21:45:45.502001,White,Male,East,2,2,Agree,Often,Neutral
+R1367,2025-10-10 06:26:33.502001,Asian,Female,Central,2,1,Strongly disagree,Often,Satisfied
+R1467,2025-10-08 22:23:52.502001,Hispanic,Female,South,2,0,Agree,Rarely,Neutral
+R1083,2025-10-27 06:45:49.502001,White,Female,West,1,2,Neutral,Never,Very unsatisfied
+R1245,2025-10-10 22:26:26.502001,Asian,Male,East,1,0,Strongly disagree,Rarely,Neutral
+R1165,2025-08-13 20:31:05.502001,Hispanic,Female,West,4,0,Strongly disagree,Often,Very satisfied
+R1163,2025-10-27 23:10:25.502001,White,Female,West,1,2,Disagree,Always,Neutral
+R1199,2025-10-21 17:17:09.502001,Hispanic,Male,North,2,0,Neutral,Sometimes,Very satisfied
+R1228,2025-08-21 15:31:15.502001,Asian,Female,Central,4,1,Strongly disagree,Rarely,Neutral
+R1074,2025-10-05 11:12:50.502001,Black,Male,Central,2,2,Neutral,Often,Satisfied
+R1478,2025-10-23 14:00:27.502001,Other,Male,West,1,2,Disagree,Sometimes,Satisfied
+R1358,2025-08-17 05:36:57.502001,Asian,Male,South,4,2,Disagree,Rarely,Unsatisfied
+R1250,2025-09-04 22:24:32.502001,White,Female,West,1,2,Disagree,Rarely,Very satisfied
+R1119,2025-08-21 05:35:57.502001,White,Male,North,3,1,Strongly agree,Sometimes,Unsatisfied
+R1310,2025-10-27 09:08:36.502001,White,Prefer not to say,North,3,1,Strongly agree,Rarely,Unsatisfied
+R1299,2025-10-25 22:58:34.502001,White,Male,West,3,1,Neutral,Never,Neutral
+R1255,2025-11-05 03:02:04.502001,Black,Male,South,4,1,Disagree,Rarely,Neutral
+R1354,2025-11-02 19:31:54.502001,White,Female,South,2,0,Agree,Often,Satisfied
+R1399,2025-09-18 07:50:27.502001,Hispanic,Female,West,5,2,Strongly disagree,Often,Neutral
+R1225,2025-09-29 01:17:23.502001,White,Male,East,5,0,Agree,Often,Neutral
+R1353,2025-08-17 20:36:16.502001,White,Male,West,5,3,Neutral,Never,Neutral
+R1234,2025-08-28 15:30:24.502001,White,Female,East,2,0,Strongly agree,Sometimes,Neutral
+R1382,2025-09-04 07:31:16.502001,Black,Female,Central,5,3,Neutral,Rarely,Unsatisfied
+R1274,2025-08-19 13:32:06.502001,White,Male,South,2,1,Disagree,Sometimes,Very satisfied
+R1036,2025-10-21 02:58:49.502001,White,Male,South,4,1,Agree,Sometimes,Very satisfied
+R1196,2025-09-26 00:10:08.502001,Black,Female,Central,3,1,Agree,Often,Neutral
+R1139,2025-08-19 00:47:31.502001,Other,Female,East,6,1,Strongly disagree,Always,Neutral
+R1364,2025-09-11 03:29:18.502001,Asian,Female,West,0,1,Neutral,Never,Satisfied
+R1244,2025-08-25 20:39:58.502001,White,Female,West,0,0,Neutral,Rarely,Unsatisfied
+R1439,2025-10-18 14:31:34.502001,White,Male,East,3,3,Disagree,Never,Satisfied
+R1286,2025-10-22 15:03:01.502001,White,Male,North,3,1,Strongly agree,Often,Very unsatisfied
+R1059,2025-09-10 15:05:24.502001,White,Male,East,0,1,Neutral,Sometimes,Neutral
+R1111,2025-08-31 04:23:12.502001,White,Male,South,5,2,Neutral,Rarely,Very unsatisfied
+R1089,2025-08-11 17:14:15.502001,White,Female,South,1,1,Neutral,Never,Neutral
+R1436,2025-08-29 21:44:04.502001,White,Female,South,1,2,Agree,Sometimes,Very satisfied
+R1006,2025-10-26 18:34:27.502001,White,Male,East,2,1,Strongly agree,Rarely,Neutral
+R1360,2025-10-12 01:07:25.502001,White,Male,Central,3,0,Strongly disagree,Sometimes,Satisfied
+R1346,2025-11-02 11:56:48.502001,Black,Female,South,0,1,Disagree,Often,Satisfied
+R1338,2025-09-17 21:43:16.502001,White,Male,North,2,1,Disagree,Always,Unsatisfied
+R1158,2025-08-28 04:30:51.502001,White,Male,West,1,5,Disagree,Rarely,Neutral
+R1150,2025-11-05 00:59:20.502001,Asian,Female,West,3,3,Agree,Often,Satisfied
+R1177,2025-09-15 06:32:12.502001,White,Female,North,2,1,Agree,Sometimes,Satisfied
+R1393,2025-09-25 19:00:38.502001,Hispanic,Female,East,1,0,Agree,Sometimes,Unsatisfied
+R1184,2025-09-12 17:07:42.502001,White,Male,North,4,1,Neutral,Sometimes,Neutral
+R1449,2025-09-25 18:52:11.502001,White,Male,East,3,0,Agree,Sometimes,Neutral
+R1010,2025-08-27 03:43:27.502001,White,Male,South,1,0,Neutral,Sometimes,Neutral
+R1380,2025-10-11 06:08:08.502001,White,Female,North,1,0,Disagree,Sometimes,Satisfied
+R1103,2025-09-24 19:19:20.502001,White,Female,Central,5,3,Agree,Often,Satisfied
+R1081,2025-08-31 02:59:17.502001,Black,Prefer not to say,North,0,2,Strongly agree,Always,Neutral
+R1038,2025-10-24 00:45:11.502001,Black,Female,North,2,2,Agree,Sometimes,Neutral
+R1314,2025-10-16 16:31:02.502001,Hispanic,Male,South,5,1,Disagree,Always,Satisfied
+R1167,2025-10-06 16:27:30.502001,White,Female,East,1,1,Neutral,Rarely,Satisfied
+R1469,2025-08-13 06:12:02.502001,Other,Female,West,1,1,Agree,Always,Very satisfied
+R1296,2025-09-14 23:16:12.502001,Hispanic,Non-binary,North,1,1,Neutral,Often,Satisfied
+R1474,2025-09-14 06:58:34.502001,White,Female,South,1,0,Neutral,Sometimes,Neutral
+R1198,2025-11-05 09:54:59.502001,Asian,Female,West,3,0,Agree,Always,Satisfied
+R1297,2025-08-08 08:21:10.502001,White,Male,North,1,2,Agree,Often,Unsatisfied
+R1416,2025-08-29 12:19:34.502001,White,Female,North,3,2,Disagree,Always,Satisfied
+R1146,2025-09-25 00:20:45.502001,Black,Male,West,3,1,Neutral,Rarely,Neutral
+R1392,2025-09-03 13:31:05.502001,White,Male,North,3,1,Neutral,Sometimes,Satisfied
+R1147,2025-10-12 04:07:02.502001,White,Male,East,2,1,Neutral,Sometimes,Very unsatisfied
+R1447,2025-09-21 21:47:14.502001,Hispanic,Male,West,2,1,Disagree,Never,Satisfied
+R1287,2025-08-15 18:49:51.502001,White,Female,South,0,2,Disagree,Often,Satisfied
+R1123,2025-09-24 05:01:49.502001,White,Male,West,1,0,Neutral,Often,Neutral
+R1368,2025-08-07 15:07:10.502001,White,Male,North,1,2,Agree,Sometimes,Satisfied
+R1096,2025-11-05 03:05:18.502001,White,Male,South,3,0,Neutral,Sometimes,Neutral
+R1143,2025-10-24 23:55:18.502001,White,Female,East,0,0,Neutral,Sometimes,Unsatisfied
+R1239,2025-10-02 05:19:49.502001,White,Female,North,1,1,Neutral,Never,Satisfied
+R1442,2025-09-30 01:38:36.502001,White,Male,East,2,1,Neutral,Never,Neutral
+R1097,2025-09-24 02:21:12.502001,White,Female,North,3,1,Strongly agree,Often,Neutral
+R1407,2025-09-22 20:50:33.502001,White,Female,West,2,0,Strongly agree,Sometimes,Satisfied
+R1122,2025-10-16 13:17:58.502001,White,Female,West,3,2,Neutral,Sometimes,Neutral
+R1183,2025-08-16 08:02:56.502001,Hispanic,Male,Central,4,3,Strongly disagree,Never,Very satisfied
+R1202,2025-10-22 20:38:57.502001,White,Female,North,3,0,Neutral,Sometimes,Satisfied
+R1246,2025-08-28 23:01:40.502001,White,Female,North,0,3,Disagree,Never,Neutral
+R1305,2025-08-18 22:44:55.502001,Other,Male,West,5,2,Disagree,Sometimes,Neutral
+R1298,2025-08-14 05:59:35.502001,Black,Male,East,1,0,Neutral,Sometimes,Neutral
+R1351,2025-09-24 17:41:32.502001,Hispanic,Male,East,1,1,Strongly disagree,Sometimes,Satisfied
+R1386,2025-08-18 22:24:28.502001,White,Male,West,3,1,Strongly disagree,Often,Satisfied
+R1395,2025-09-02 07:12:00.502001,Asian,Female,West,2,1,Agree,Sometimes,Very unsatisfied
+R1284,2025-09-20 10:41:42.502001,Black,Female,South,3,4,Neutral,Often,Neutral
+R1125,2025-09-05 15:38:36.502001,White,Female,East,1,1,Neutral,Rarely,Neutral
+R1302,2025-10-21 14:11:29.502001,White,Male,North,3,0,Agree,Sometimes,Satisfied
+R1223,2025-10-13 19:05:36.502001,White,Male,Central,1,2,Neutral,Sometimes,Satisfied
+R1418,2025-10-22 22:53:59.502001,Black,Male,South,2,0,Neutral,Sometimes,Very satisfied
+R1219,2025-09-03 04:21:19.502001,Hispanic,Male,South,3,4,Neutral,Rarely,Neutral
+R1129,2025-10-21 07:51:50.502001,White,Female,South,3,0,Agree,Rarely,Satisfied
+R1420,2025-09-13 18:39:32.502001,Hispanic,Male,South,2,1,Disagree,Sometimes,Satisfied
+R1289,2025-09-01 09:05:44.502001,Black,Non-binary,North,0,1,Agree,Sometimes,Neutral
+R1444,2025-10-26 16:56:46.502001,Hispanic,Female,West,3,1,Agree,Often,Neutral
+R1376,2025-10-06 06:13:11.502001,Hispanic,Male,South,3,2,Neutral,Often,Neutral
+R1291,2025-10-15 21:05:02.502001,White,Male,North,1,1,Neutral,Sometimes,Very satisfied
+R1355,2025-08-23 13:10:22.502001,Black,Female,West,3,1,Strongly disagree,Often,Neutral
+R1294,2025-10-13 04:31:30.502001,White,Female,West,1,0,Disagree,Sometimes,Neutral
+R1396,2025-09-15 04:01:29.502001,Hispanic,Female,South,1,1,Agree,Sometimes,Neutral
+R1340,2025-10-18 01:24:45.502001,White,Female,South,1,1,Neutral,Sometimes,Satisfied
+R1112,2025-09-21 12:43:56.502001,Asian,Male,South,3,0,Agree,Sometimes,Very satisfied
+R1179,2025-09-18 12:14:22.502001,White,Male,East,2,0,Disagree,Often,Neutral
+R1307,2025-10-27 09:15:59.502001,White,Male,West,4,1,Neutral,Often,Very satisfied
+R1432,2025-08-23 07:22:53.502001,Black,Prefer not to say,South,1,0,Agree,Rarely,Neutral
+R1487,2025-10-13 18:06:00.502001,White,Female,East,2,0,Agree,Always,Very unsatisfied
+R1481,2025-08-08 00:12:06.502001,Black,Male,North,2,0,Agree,Never,Neutral
+R1422,2025-08-24 23:26:47.502001,White,Male,North,2,0,Agree,Always,Satisfied
+R1233,2025-10-07 05:55:31.502001,White,Male,North,4,0,Neutral,Often,Satisfied
+R1311,2025-08-26 09:13:54.502001,White,Male,Central,6,1,Disagree,Often,Neutral
+R1164,2025-10-23 20:16:43.502001,White,Female,North,4,1,Agree,Often,Neutral
+R1136,2025-08-13 16:57:55.502001,White,Male,West,1,1,Neutral,Sometimes,Unsatisfied
+R1197,2025-08-12 00:44:13.502001,Asian,Male,Central,3,0,Agree,Never,Satisfied
+R1258,2025-08-31 08:17:57.502001,Black,Male,North,2,1,Strongly disagree,Often,Satisfied
+R1232,2025-09-30 00:44:31.502001,Black,Male,North,2,1,Agree,Never,Satisfied
+R1115,2025-10-24 19:47:11.502001,Hispanic,Male,East,4,0,Strongly disagree,Never,Neutral
+R1120,2025-10-15 02:29:22.502001,Hispanic,Female,Central,2,3,Disagree,Rarely,Neutral
+R1349,2025-09-12 10:46:18.502001,Black,Male,North,3,1,Neutral,Sometimes,Very unsatisfied
+R1224,2025-08-12 14:56:36.502001,White,Male,South,1,2,Neutral,Sometimes,Satisfied
+R1402,2025-09-19 01:32:54.502001,White,Female,North,6,2,Neutral,Sometimes,Satisfied
+R1397,2025-09-28 16:14:00.502001,White,Male,South,1,1,Agree,Sometimes,Unsatisfied
+R1127,2025-10-30 02:19:09.502001,Hispanic,Male,South,6,3,Neutral,Rarely,Neutral
+R1285,2025-10-27 22:59:35.502001,White,Male,East,1,0,Agree,Sometimes,Satisfied
+R1411,2025-10-14 01:55:29.502001,Asian,Female,North,2,1,Strongly disagree,Sometimes,Neutral
+R1107,2025-09-15 14:33:33.502001,Hispanic,Female,West,2,0,Neutral,Always,Satisfied
+R1370,2025-09-24 22:31:21.502001,White,Female,Central,1,4,Agree,Always,Satisfied
+R1325,2025-10-12 18:26:44.502001,Hispanic,Male,South,2,1,Neutral,Rarely,Satisfied
+R1133,2025-10-31 16:52:37.502001,White,Male,South,0,0,Neutral,Sometimes,Satisfied
+R1452,2025-09-19 04:45:47.502001,White,Female,West,2,1,Agree,Rarely,Very unsatisfied
+R1044,2025-08-14 15:49:01.502001,White,Male,Central,3,1,Strongly disagree,Sometimes,Satisfied
+R1460,2025-08-14 10:49:49.502001,White,Female,South,4,2,Neutral,Sometimes,Satisfied
+R1065,2025-10-16 07:37:34.502001,White,Male,West,0,1,Neutral,Always,Satisfied
+R1283,2025-08-31 05:40:17.502001,White,Female,North,2,2,Neutral,Sometimes,Satisfied
+R1085,2025-08-27 05:11:57.502001,White,Female,South,5,1,Agree,Sometimes,Satisfied
+R1242,2025-09-23 12:40:37.502001,Asian,Male,West,2,0,Strongly agree,Sometimes,Satisfied
+R1186,2025-10-24 00:40:44.502001,Hispanic,Male,East,4,4,Neutral,Never,Very satisfied
+R1383,2025-09-13 05:35:42.502001,Hispanic,Female,South,6,1,Neutral,Sometimes,Unsatisfied
+R1159,2025-08-27 07:08:09.502001,Black,Male,North,0,0,Strongly agree,Often,Satisfied
+R1012,2025-08-09 20:47:02.502001,Hispanic,Non-binary,Central,1,1,Neutral,Often,Unsatisfied
+R1035,2025-09-26 03:52:26.502001,Hispanic,Non-binary,East,3,1,Neutral,Never,Neutral
+R1028,2025-10-22 18:03:15.502001,Black,Female,South,3,0,Neutral,Rarely,Neutral
+R1170,2025-10-30 16:10:37.502001,Black,Female,East,2,2,Agree,Sometimes,Neutral
+R1142,2025-08-31 07:59:19.502001,White,Female,East,2,4,Neutral,Rarely,Satisfied
+R1398,2025-10-05 09:37:49.502001,Hispanic,Female,East,6,0,Strongly agree,Rarely,Neutral
+R1342,2025-08-09 14:34:53.502001,White,Female,West,1,0,Agree,Never,Neutral
+R1221,2025-09-28 14:29:44.502001,Black,Female,North,1,2,Neutral,Rarely,Satisfied
+R1095,2025-09-10 19:45:50.502001,White,Female,North,0,1,Disagree,Never,Satisfied
+R1051,2025-08-26 08:00:05.502001,Hispanic,Male,East,4,2,Strongly agree,Sometimes,Satisfied
+R1240,2025-09-14 04:59:31.502001,Asian,Female,West,3,3,Agree,Sometimes,Satisfied
+R1484,2025-10-23 06:54:50.502001,Black,Male,South,4,1,Neutral,Sometimes,Satisfied
+R1378,2025-09-04 17:31:27.502001,Hispanic,Female,South,4,1,Disagree,Rarely,Satisfied
+R1178,2025-09-14 14:23:46.502001,Asian,Non-binary,West,4,3,Neutral,Often,Neutral
+R1041,2025-08-11 14:26:49.502001,White,Male,West,3,1,Agree,Sometimes,Very satisfied
+R1498,2025-09-18 13:01:44.502001,Other,Non-binary,South,1,1,Strongly disagree,Rarely,Satisfied
+R1421,2025-10-03 03:45:34.502001,Hispanic,Male,East,4,1,Agree,Never,Satisfied
+R1206,2025-09-12 13:42:48.502001,White,Female,East,2,0,Neutral,Often,Satisfied
+R1282,2025-10-03 13:25:13.502001,White,Female,East,2,3,Strongly disagree,Sometimes,Satisfied
+R1254,2025-11-05 08:07:40.502001,White,Female,East,4,2,Strongly agree,Always,Very satisfied
+R1412,2025-10-07 00:42:18.502001,Asian,Male,South,2,2,Disagree,Often,Very satisfied
+R1004,2025-10-12 18:14:39.502001,White,Male,West,1,0,Neutral,Often,Neutral
+R1256,2025-08-14 01:42:34.502001,Asian,Male,North,1,1,Neutral,Often,Neutral
+R1448,2025-10-21 05:29:44.502001,White,Male,Central,7,1,Disagree,Sometimes,Neutral
+R1100,2025-08-08 12:15:55.502001,White,Female,North,0,1,Neutral,Often,Satisfied
+R1226,2025-09-21 17:37:23.502001,Other,Female,South,0,1,Disagree,Sometimes,Satisfied
+R1429,2025-10-15 18:45:58.502001,White,Female,West,3,0,Neutral,Never,Neutral
+R1213,2025-09-14 13:09:45.502001,White,Female,West,3,1,Agree,Sometimes,Very satisfied
+R1171,2025-09-27 20:55:10.502001,White,Male,Central,2,4,Neutral,Sometimes,Very satisfied
+R1098,2025-11-02 20:59:44.502001,White,Female,West,2,3,Neutral,Sometimes,Neutral
+R1292,2025-10-03 19:37:52.502001,Hispanic,Male,East,6,1,Neutral,Often,Unsatisfied
+R1215,2025-11-05 01:34:45.502001,White,Male,South,1,1,Neutral,Rarely,Neutral
+R1061,2025-10-04 01:51:57.502001,White,Female,Central,3,0,Disagree,Often,Satisfied
+R1047,2025-09-01 11:53:21.502001,White,Male,North,1,1,Neutral,Always,Neutral
+R1032,2025-09-24 17:43:08.502001,White,Prefer not to say,South,0,0,Disagree,Often,Satisfied
+R1267,2025-11-04 07:53:23.502001,Black,Male,South,1,0,Disagree,Sometimes,Neutral
+R1327,2025-10-30 06:01:43.502001,Black,Female,West,3,2,Neutral,Never,Neutral
+R1200,2025-11-02 16:29:53.502001,Black,Male,West,2,0,Neutral,Often,Neutral
+R1446,2025-10-11 05:05:53.502001,Other,Female,East,2,1,Neutral,Sometimes,Satisfied
+R1027,2025-08-16 04:22:25.502001,White,Female,West,0,0,Neutral,Sometimes,Very satisfied
+R1424,2025-09-20 23:19:15.502001,White,Female,Central,2,1,Neutral,Sometimes,Satisfied
+R1230,2025-08-14 16:30:25.502001,Hispanic,Female,Central,0,1,Neutral,Often,Neutral
+R1260,2025-10-25 18:07:58.502001,Black,Female,South,1,0,Agree,Sometimes,Satisfied
+R1288,2025-09-14 14:23:24.502001,White,Female,North,1,1,Agree,Sometimes,Neutral
+R1162,2025-08-28 01:58:50.502001,Black,Male,South,4,1,Strongly agree,Often,Satisfied
+R1425,2025-08-29 10:28:22.502001,White,Female,Central,2,1,Disagree,Rarely,Very satisfied
+R1138,2025-10-15 09:40:07.502001,White,Female,South,2,4,Neutral,Never,Neutral
+R1062,2025-09-26 14:28:40.502001,Hispanic,Female,West,1,1,Agree,Sometimes,Neutral
+R1135,2025-09-20 05:12:20.502001,White,Female,North,4,1,Neutral,Often,Very unsatisfied
+R1128,2025-10-25 13:30:20.502001,White,Female,South,2,0,Disagree,Never,Very satisfied
+R1476,2025-09-29 01:04:40.502001,White,Male,West,2,1,Agree,Sometimes,Satisfied
+R1008,2025-09-14 10:49:03.502001,Black,Non-binary,South,3,0,Neutral,Sometimes,Satisfied
+R1326,2025-09-06 08:59:13.502001,Black,Female,North,3,0,Neutral,Never,Satisfied
+R1463,2025-09-05 06:02:20.502001,Black,Female,East,2,1,Neutral,Sometimes,Satisfied
+R1064,2025-10-22 08:01:35.502001,White,Female,South,1,2,Strongly disagree,Sometimes,Neutral
+R1300,2025-10-27 19:57:07.502001,White,Male,North,1,2,Agree,Sometimes,Neutral
+R1014,2025-10-04 23:13:00.502001,White,Female,West,2,2,Disagree,Never,Neutral
+R1156,2025-09-06 21:43:52.502001,Black,Female,North,2,3,Agree,Rarely,Very satisfied
+R1040,2025-10-09 21:20:29.502001,White,Non-binary,East,0,2,Neutral,Sometimes,Satisfied
+R1379,2025-10-22 19:10:45.502001,White,Female,East,4,0,Disagree,Sometimes,Unsatisfied
+R1468,2025-10-10 01:19:54.502001,White,Male,West,4,2,Agree,Rarely,Unsatisfied
+R1403,2025-10-27 14:01:01.502001,Hispanic,Male,West,2,0,Neutral,Sometimes,Satisfied
+R1216,2025-09-26 11:55:33.502001,White,Male,North,4,1,Disagree,Sometimes,Satisfied
+R1279,2025-09-30 21:53:55.502001,Hispanic,Male,South,2,0,Neutral,Sometimes,Unsatisfied
+R1434,2025-09-23 02:15:18.502001,White,Female,North,2,0,Neutral,Often,Neutral
+R1430,2025-08-17 01:41:41.502001,White,Female,South,3,1,Agree,Often,Satisfied
+R1337,2025-10-19 23:17:36.502001,Black,Female,East,3,1,Neutral,Often,Very satisfied
+R1236,2025-10-26 14:29:13.502001,White,Female,West,4,1,Strongly disagree,Never,Satisfied
+R1207,2025-08-12 18:07:07.502001,Black,Male,South,3,0,Disagree,Often,Satisfied
+R1212,2025-09-17 10:17:04.502001,Black,Female,North,1,1,Disagree,Rarely,Satisfied
+R1295,2025-09-26 03:05:45.502001,White,Male,North,4,0,Agree,Often,Satisfied
+R1457,2025-09-23 09:28:26.502001,White,Female,East,3,1,Neutral,Always,Neutral
+R1251,2025-10-14 03:29:37.502001,White,Non-binary,South,3,0,Neutral,Rarely,Neutral
+R1488,2025-09-25 15:06:43.502001,Asian,Female,South,2,0,Strongly agree,Sometimes,Satisfied
+R1486,2025-09-14 04:33:08.502001,White,Male,South,4,4,Agree,Often,Very unsatisfied
+R1303,2025-09-28 21:41:13.502001,Black,Male,East,1,0,Strongly disagree,Often,Neutral
+R1350,2025-11-03 18:44:58.502001,White,Female,West,5,3,Neutral,Often,Neutral
+R1269,2025-08-08 04:21:51.502001,White,Male,South,2,0,Strongly agree,Often,Neutral
+R1201,2025-10-29 20:25:08.502001,White,Female,North,1,1,Strongly agree,Sometimes,Satisfied
+R1161,2025-10-03 06:38:55.502001,Black,Prefer not to say,North,3,1,Agree,Sometimes,Very satisfied
+R1043,2025-09-02 12:32:39.502001,Asian,Male,East,3,4,Disagree,Often,Satisfied
+R1217,2025-10-11 03:13:41.502001,Hispanic,Non-binary,East,3,2,Disagree,Often,Unsatisfied
+R1401,2025-08-26 17:03:41.502001,Asian,Female,North,3,0,Agree,Never,Satisfied
+R1190,2025-09-14 10:43:50.502001,White,Female,North,1,1,Agree,Sometimes,Unsatisfied
+R1309,2025-10-23 22:35:02.502001,White,Female,West,1,0,Neutral,Rarely,Neutral
+R1259,2025-10-30 11:18:23.502001,White,Male,East,2,0,Strongly disagree,Sometimes,Neutral
+R1105,2025-10-04 03:56:37.502001,White,Female,North,3,2,Neutral,Often,Satisfied
+R1053,2025-10-30 18:38:25.502001,Asian,Male,West,0,0,Neutral,Sometimes,Neutral
+R1389,2025-10-07 10:28:23.502001,Hispanic,Female,South,3,1,Neutral,Sometimes,Satisfied
+R1001,2025-08-09 17:29:22.502001,Asian,Male,East,2,0,Neutral,Often,Satisfied
+R1441,2025-11-04 09:18:50.502001,Other,Male,North,5,1,Neutral,Never,Very satisfied
+R1482,2025-09-08 03:15:55.502001,White,Female,East,3,1,Disagree,Always,Neutral
+R1049,2025-09-09 07:30:14.502001,White,Male,North,3,0,Disagree,Never,Very satisfied
+R1419,2025-08-14 00:46:31.502001,Hispanic,Female,Central,0,2,Agree,Often,Unsatisfied
+R1080,2025-09-27 00:01:17.502001,Hispanic,Female,West,4,0,Neutral,Often,Satisfied
+R1205,2025-08-26 17:09:37.502001,White,Prefer not to say,West,3,1,Agree,Always,Very satisfied
+R1034,2025-09-10 13:06:02.502001,Other,Male,North,2,0,Disagree,Rarely,Satisfied
+R1263,2025-08-21 16:11:58.502001,White,Male,South,4,1,Neutral,Often,Neutral
+R1427,2025-08-07 23:26:35.502001,Asian,Male,Central,1,3,Agree,Sometimes,Neutral
+R1366,2025-08-30 09:40:01.502001,Other,Female,West,2,1,Disagree,Sometimes,Unsatisfied
+R1091,2025-10-02 22:44:59.502001,Black,Male,East,3,1,Neutral,Always,Very satisfied
+R1339,2025-09-03 22:40:43.502001,White,Male,North,1,2,Agree,Sometimes,Satisfied
+R1473,2025-08-26 02:13:43.502001,Asian,Female,South,1,0,Agree,Sometimes,Satisfied
+R1052,2025-08-31 12:08:18.502001,Asian,Male,Central,6,0,Disagree,Sometimes,Very satisfied
+R1345,2025-10-24 06:28:07.502001,Black,Female,South,2,1,Disagree,Sometimes,Very satisfied
+R1264,2025-10-21 12:21:19.502001,Hispanic,Female,North,1,0,Neutral,Sometimes,Neutral
+R1241,2025-09-29 00:11:54.502001,Asian,Female,West,3,1,Strongly disagree,Rarely,Satisfied
+R1013,2025-08-25 08:57:20.502001,White,Male,North,3,1,Neutral,Often,Very satisfied
+R1315,2025-10-26 01:11:50.502001,Black,Male,East,4,0,Disagree,Often,Satisfied
+R1088,2025-08-15 15:49:50.502001,Asian,Female,Central,5,2,Agree,Often,Very satisfied
+R1387,2025-09-14 07:37:49.502001,White,Female,North,4,2,Strongly disagree,Always,Neutral
+R1273,2025-10-30 23:33:18.502001,Asian,Female,North,2,1,Neutral,Rarely,Satisfied
+R1166,2025-08-28 21:33:23.502001,White,Female,West,1,2,Neutral,Often,Unsatisfied
+R1328,2025-10-18 16:17:39.502001,White,Male,East,0,2,Disagree,Always,Satisfied
+R1492,2025-09-15 16:52:19.502001,White,Female,South,2,1,Agree,Sometimes,Satisfied
+R1134,2025-08-15 04:28:40.502001,Asian,Female,East,0,1,Agree,Often,Very satisfied
+R1306,2025-09-04 05:18:15.502001,White,Non-binary,West,1,1,Neutral,Rarely,Very satisfied
+R1480,2025-09-10 17:05:21.502001,Black,Female,West,0,1,Agree,Never,Neutral
+R1319,2025-10-30 04:00:33.502001,White,Female,North,4,2,Strongly agree,Often,Neutral
+R1243,2025-10-30 14:25:54.502001,White,Male,West,1,1,Agree,Never,Neutral
+R1054,2025-10-04 19:13:22.502001,Black,Male,Central,1,0,Neutral,Often,Satisfied
+R1363,2025-09-22 12:08:24.502001,White,Female,East,2,2,Neutral,Rarely,Satisfied
+R1050,2025-09-09 19:03:26.502001,Other,Male,West,4,0,Disagree,Sometimes,Satisfied
+R1456,2025-10-15 09:37:26.502001,White,Male,East,4,1,Strongly agree,Often,Neutral
+R1174,2025-10-19 03:39:35.502001,Black,Female,East,3,2,Strongly disagree,Often,Unsatisfied
+R1445,2025-10-01 14:47:43.502001,Asian,Female,North,4,4,Disagree,Rarely,Satisfied
+R1189,2025-09-16 20:28:17.502001,White,Female,West,1,0,Strongly disagree,Always,Very satisfied
+R1496,2025-09-12 20:47:25.502001,Black,Male,East,2,3,Agree,Sometimes,Satisfied
+R1187,2025-08-29 20:33:50.502001,Black,Female,North,2,1,Disagree,Rarely,Very unsatisfied
+R1169,2025-08-19 09:15:35.502001,Black,Female,South,2,0,Strongly agree,Rarely,Neutral
+R1058,2025-08-22 04:24:56.502001,White,Male,South,1,0,Disagree,Sometimes,Very satisfied
+R1048,2025-10-03 16:32:41.502001,White,Male,West,1,0,Agree,Rarely,Neutral
+R1344,2025-09-06 00:30:43.502001,White,Female,West,1,1,Neutral,Never,Satisfied
+R1235,2025-08-18 06:25:17.502001,Black,Male,South,1,0,Strongly disagree,Often,Very satisfied
+R1252,2025-08-14 00:09:34.502001,Hispanic,Male,North,2,0,Strongly agree,Always,Neutral
+R1021,2025-10-09 07:26:50.502001,White,Female,South,3,0,Neutral,Never,Very unsatisfied
+R1313,2025-08-16 17:30:02.502001,Other,Male,West,4,1,Neutral,Rarely,Satisfied
+R1459,2025-09-01 04:35:48.502001,White,Male,East,2,3,Strongly disagree,Often,Satisfied
+R1160,2025-08-13 20:48:41.502001,White,Female,West,2,1,Disagree,Never,Very satisfied
+R1276,2025-08-17 02:39:50.502001,Hispanic,Female,South,3,1,Disagree,Often,Satisfied
+R1443,2025-10-31 23:33:06.502001,White,Male,South,2,0,Agree,Sometimes,Neutral
+R1191,2025-09-01 13:07:26.502001,Asian,Female,East,6,0,Agree,Never,Unsatisfied
+R1385,2025-09-03 02:04:53.502001,Hispanic,Female,South,1,1,Neutral,Always,Satisfied
+R1293,2025-08-31 01:17:23.502001,White,Male,East,3,2,Strongly agree,Always,Neutral
+R1413,2025-08-27 16:41:24.502001,Black,Female,North,1,1,Agree,Never,Very unsatisfied
+R1343,2025-08-24 20:37:36.502001,White,Non-binary,West,2,0,Neutral,Often,Neutral
+R1257,2025-08-26 15:52:46.502001,Black,Male,South,1,3,Neutral,Sometimes,Satisfied
+R1308,2025-10-18 03:05:26.502001,Hispanic,Female,South,5,0,Neutral,Sometimes,Satisfied
+R1149,2025-09-04 12:46:24.502001,White,Male,West,4,0,Strongly agree,Never,Very unsatisfied
+R1130,2025-09-04 03:41:48.502001,White,Male,West,3,1,Disagree,Sometimes,Unsatisfied
+R1151,2025-10-04 23:12:10.502001,White,Male,West,1,2,Neutral,Rarely,Very satisfied
+R1359,2025-09-15 14:07:26.502001,Black,Female,East,3,1,Neutral,Often,Very satisfied
+R1099,2025-10-23 22:45:01.502001,White,Female,South,3,0,Strongly disagree,Sometimes,Very satisfied
+R1372,2025-10-13 06:04:42.502001,White,Male,West,4,2,Agree,Always,Satisfied
+R1087,2025-09-22 08:02:35.502001,Black,Female,North,2,0,Neutral,Sometimes,Neutral
+R1458,2025-10-02 21:14:34.502001,White,Female,North,3,0,Neutral,Always,Unsatisfied
+R1330,2025-10-19 10:41:05.502001,White,Female,East,3,1,Neutral,Sometimes,Neutral
+R1214,2025-11-01 15:16:20.502001,Black,Female,East,2,1,Strongly disagree,Sometimes,Satisfied
+R1466,2025-08-28 06:59:28.502001,White,Male,Central,2,0,Neutral,Often,Satisfied
+R1121,2025-09-25 00:31:30.502001,Asian,Female,Central,3,1,Neutral,Often,Satisfied
+R1499,2025-08-18 23:08:32.502001,Other,Female,West,3,0,Agree,Rarely,Satisfied
+R1020,2025-10-19 00:02:09.502001,Black,Male,East,3,1,Neutral,Often,Very unsatisfied
+R1188,2025-08-24 14:19:03.502001,White,Male,South,2,0,Neutral,Always,Satisfied
+R1071,2025-10-31 08:09:04.502001,White,Male,South,1,1,Agree,Sometimes,Neutral
+R1106,2025-08-17 12:25:08.502001,White,Female,South,2,0,Neutral,Sometimes,Neutral
+R1270,2025-10-20 00:24:40.502001,Hispanic,Female,East,1,1,Neutral,Sometimes,Very satisfied
+R1348,2025-10-04 05:04:00.502001,White,Male,Central,4,1,Neutral,Sometimes,Satisfied
+R1435,2025-08-11 23:56:17.502001,Black,Female,North,2,1,Disagree,Never,Neutral
+R1102,2025-10-07 19:57:38.502001,White,Female,Central,1,3,Disagree,Often,Satisfied
