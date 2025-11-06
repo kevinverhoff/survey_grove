@@ -72,7 +72,7 @@ You could:
 
 Clone this repository and install dependencies:
 
-&nbsp;	git clone https://github.com/kevinverhoff/survey_grove
+&nbsp;	git clone https://github.com/kevinverhoff/survey_grove.git
 
 &nbsp;	cd survey-grove
 
