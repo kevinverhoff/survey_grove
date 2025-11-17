@@ -22,6 +22,11 @@ if "show_details" not in st.session_state:
 def toggle_details():
     st.session_state.show_details = not st.session_state.show_details
 
+def reset_app():
+    for key in list(st.session_state.keys()):
+        del st.session_state[key]
+    st.rerun()
+
 clicked = st.button("Show / Hide Details", on_click=toggle_details)
 
 if st.session_state.show_details:
@@ -164,11 +169,6 @@ if uploaded_file:
 # --- Session reset ---
 if "uploaded_file" not in st.session_state:
     st.session_state.uploaded_file = None
-
-def reset_app():
-    for key in list(st.session_state.keys()):
-        del st.session_state[key]
-    st.rerun()
 
 if st.button("🔄 Reset App"):
     reset_app()
