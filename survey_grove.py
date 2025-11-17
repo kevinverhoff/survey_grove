@@ -4,6 +4,14 @@ import numpy as np
 import scipy.stats as stats
 import plotly.express as px
 
+def toggle_details():
+    st.session_state.show_details = not st.session_state.show_details
+
+def reset_app():
+    for key in list(st.session_state.keys()):
+        del st.session_state[key]
+    st.rerun()
+
 st.set_page_config(page_title="Survey Grove",
                    page_icon = '🌳',
                    layout="wide")
@@ -18,14 +26,6 @@ Upload a CSV of survey responses (one row per participant, one column per questi
 # --- Details and Instructions ---
 if "show_details" not in st.session_state:
     st.session_state.show_details = False
-
-def toggle_details():
-    st.session_state.show_details = not st.session_state.show_details
-
-def reset_app():
-    for key in list(st.session_state.keys()):
-        del st.session_state[key]
-    st.rerun()
 
 clicked = st.button("Show / Hide Details", on_click=toggle_details)
 
