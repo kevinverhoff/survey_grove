@@ -13,24 +13,31 @@ st.markdown("## Free Survey Analysis Tool")
 
 st.markdown("""
 Upload a CSV of survey responses (one row per participant, one column per question).  
-You’ll be able to:
-- Select **up to three attributes** (e.g., Region, Location, or Role)
-- Classify question columns as **numeric** or **categorical**
-- Identify **positive responses** for categorical questions
-- View **charts and significance tests** (ANOVA or Chi²)
 """)
 
-# --- Session reset ---
-if "uploaded_file" not in st.session_state:
-    st.session_state.uploaded_file = None
+# --- Details and Instructions ---
+if "show_details" not in st.session_state:
+    st.session_state.show_details = False
 
-def reset_app():
-    for key in list(st.session_state.keys()):
-        del st.session_state[key]
-    st.rerun()
+def toggle_details():
+    st.session_state.show_details = not st.session_state.show_details
 
-if st.button("🔄 Reset App"):
-    reset_app()
+clicked = st.button("Show / Hide Details", on_click=toggle_details)
+
+if st.session_state.show_details:
+    st.markdown("""
+Directions:
+1. Upload Survey Data, with Questions listed in each column (wide, not long)
+2. Select 3 **attributes** (eg: Gender) that you want to analyze (you can always do more later)
+3. Tag responses to your questions as **numeric** or **categorical**. This will determine the kind of analysis.
+4. For categorical data, define **positive** responses.
+5. Run the tool!
+
+The tool will:
+- Create visualizations of your questions
+- Run **statistical testing** to see if there is a significant difference in your attribute groups (eg: "Do men rate a question significantly differently than women?")
+- **Significance tests** are ANOVA or Chi²
+""")
 
 # --- File Upload ---
 uploaded_file = st.file_uploader("Upload your survey CSV", type=["csv"], key="file_uploader")
@@ -153,6 +160,20 @@ if uploaded_file:
                     df.drop(columns="_positive_", inplace=True)
 
             st.divider()
+
+# --- Session reset ---
+if "uploaded_file" not in st.session_state:
+    st.session_state.uploaded_file = None
+
+def reset_app():
+    for key in list(st.session_state.keys()):
+        del st.session_state[key]
+    st.rerun()
+
+if st.button("🔄 Reset App"):
+    reset_app()
+
+# --- credits & buy me a coffee ---
 st.markdown("""
     <p style="
         font-size: 16px;
